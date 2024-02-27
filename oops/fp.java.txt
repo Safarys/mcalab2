@@ -1,5 +1,0 @@
-class fp{
-public static void main(string a[])
-{
-System.out.println("You are MACE");
-}}
