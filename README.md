@@ -1,4 +1,3 @@
-"# mcalab2" 
-"# mcalab2" 
-"# safarlap" 
-"# safarlap" 
+"# MCA lab2 S2 programs" 
+ 
+
