@@ -1,0 +1,13 @@
+create table stu(id number(20),name varchar(20));
+
+select * from stu;
+
+insert into stu values(&id,'&name');
+
+alter table stu add age varchar(20);
+
+update stu set age=34 where id='1';
+
+drop table stu;
+
+delete stu where id='2';
